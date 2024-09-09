@@ -1,0 +1,1 @@
+repositorio con funciones python, una cual extrae el nombre de perfil de una lista en un archivo json, y otro para comparar dos listas de textos, y crearnos una lista de texto nueva con la diferencia de las primeras dos
